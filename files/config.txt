@@ -1,0 +1,7 @@
+# some basic configuration
+
+SOURCE_DIR=~/src
+GIT_REPO=git-filter-repo
+GIT_USER=git
+GIT_TOKEN=***REMOVED***
+GIT_BIN=/usr/bin/git
